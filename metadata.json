@@ -1,0 +1,6 @@
+{
+  "name": "Kempen Dana Makmal Komputer SEMESTA",
+  "description": "Laman rasmi program sumbangan set komputer & pencetak untuk Makmal Komputer Sekolah Menengah Sains Tengku Abdullah (SEMESTA), Raub. Sasaran RM 110,935.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
